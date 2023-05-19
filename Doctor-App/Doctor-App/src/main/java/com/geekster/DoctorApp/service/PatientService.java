@@ -1,5 +1,9 @@
 package com.geekster.DoctorApp.service;
 
+import com.geekster.DoctorApp.dto.SignInInput;
+import com.geekster.DoctorApp.dto.SignInOutput;
+import com.geekster.DoctorApp.dto.SignUpInput;
+import com.geekster.DoctorApp.dto.SignUpOutput;
 import com.geekster.DoctorApp.model.AppointmentKey;
 import com.geekster.DoctorApp.model.AuthenticationToken;
 import com.geekster.DoctorApp.model.Doctor;
