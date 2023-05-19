@@ -1,0 +1,31 @@
+### Frameworks and language
+
+---
+* Framework : Spring,SpringBoot
+* Language : java (Version 17)
+
+### Data Flow
+
+---
+> Controller
+
+* AppointmentController
+* DoctorController
+* PatientController
+
+
+
+> Service
+
+
+> Repository
+
+
+
+### Database used in project
+
+* MySql
+
+### Project Summary
+
+This is a __Doctor-App__ built with Java Spring Boot, using MySql database engine and Maven build tool. The system supports booking appointments by patients for a particular doctor. The project follows the Model-View-Controller (MVC) architecture pattern, with separate layers for controller, service, and repository.
